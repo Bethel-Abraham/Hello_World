@@ -14,4 +14,7 @@ char* StrCpy(char* src)
 	return s;
 	free(s);
 }
+
 /*本地edit file*/
+
+
