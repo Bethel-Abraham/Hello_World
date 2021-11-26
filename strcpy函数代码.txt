@@ -14,4 +14,4 @@ char* StrCpy(char* src)
 	return s;
 	free(s);
 }
-/*远程edit file*/ 
+/*edit file*/ 
